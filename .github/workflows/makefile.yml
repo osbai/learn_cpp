@@ -18,4 +18,4 @@ jobs:
       run: make
 
     - name: Run
-      run: make hello
+      run: ./hello
