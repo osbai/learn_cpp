@@ -3,10 +3,10 @@ CXX = g++
 CXXFLAGS = -Wall -std=c++17
 
 # Target executable
-TARGET = hello
+TARGET = main
 
 # Source files
-SRCS = hello.cpp
+SRCS = main.cpp
 
 # Default rule
 all: $(TARGET)
